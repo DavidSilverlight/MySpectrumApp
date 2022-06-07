@@ -2,35 +2,35 @@
   {
     "SurfspotName": "Ho'okipa Beach",
     "Description": "Ho'okipa Beach is a go-to surfing spot on Maui. This North Shore beach sets perfect conditions with north, northwest, west, and east swells. It's also a world-class windsurfing destination. Surfers should be aware that there can be riptides, relentless wave sets, and some sharp rocks and reef to watch out for. We suggest visiting Ho'okipa Beach if you are a more advanced rider.",
-    "Image": "https://github.com/DavidSilverlight/MauiSurfSpots/blob/main/hookipa.jpg?raw=true",
+    "Image": "https://raw.githubusercontent.com/DavidSilverlight/MySpectrumApp/main/hookipa.jpg",
     "Latitude": 20.9366667,
     "Longitude": -156.3605556
   },
  {
     "SurfspotName": "Lahaina Reefs",
     "Description": "Fun reef breaks for riders of all levels make Lahaina a great place to surf on the west coast of the island. Check out Kammies and Shark Pit at the south end of town, or surf the popular Breakwall up against Lahaina Harbor. The harbor also has a fun peak that comes out of deep water. You'll definitely see a few resident pros surfing here.",
-    "Image": "https://github.com/DavidSilverlight/MauiSurfSpots/blob/main/lahaina.jpg?raw=true",
+    "Image": "https://raw.githubusercontent.com/DavidSilverlight/MySpectrumApp/main/lahaina.jpg",
     "Latitude": 20.878525,
     "Longitude":  -156.683746
   },
  {
     "SurfspotName": "Honolua Bay",
     "Description": "Get ready to catch the longest ride of your life! Honolua Bay is one of the best surf spots in Hawaii, boasting a powerful, hollow reef break point and a world-class wave. It was even described as “the best wave in the world” by four-time world champion Mark Richards. The bay can get very crowded in the summertime, so be sure to respect the locals.",
-    "Image": "https://github.com/DavidSilverlight/MauiSurfSpots/blob/main/honolulu.jpg?raw=true",
+    "Image": "https://raw.githubusercontent.com/DavidSilverlight/MySpectrumApp/main/honolulu.jpg",
     "Latitude": 21.0177778,
     "Longitude": -156.6425
   },
  {
     "SurfspotName": "Pe'ahi",
     "Description": "With a nickname like “Jaws Beach”, it’s no surprise that Pe’ahi on the North Shore is the most powerful surf spot on Maui. Its massive, fast-moving waves make Jaws strictly for professional surfers only. When conditions allow, pros from all over the world get behind a jet ski, let go of the tow rope, and risk their lives to get a taste of the most impressive wave on Earth. Visitors are welcome to stand on the beach and watch the action unfold.",
-    "Image": "https://github.com/DavidSilverlight/MauiSurfSpots/blob/main/peahi.jpg?raw=true",
+    "Image": "https://raw.githubusercontent.com/DavidSilverlight/MySpectrumApp/main/peahi.jpg",
     "Latitude": 20.93861,
     "Longitude": -156.26083
   },
  {
     "SurfspotName": "Olowalu Beach",
     "Description": "Just off the Honoapiilani Highway, Olowalu is the easiest spot to access on the island. You can literally go from driving the highway to dropping in on a wave in two minutes. When ocean swells are right, the waves provide consistent fun for intermediate to advanced surfers. However, only a few people can go at the peak at one time. Caution: These waters are known to be some of the sharkiest around.",
-    "Image": "https://github.com/DavidSilverlight/MauiSurfSpots/blob/main/olowalu.jpg?raw=true",
+    "Image": "https://raw.githubusercontent.com/DavidSilverlight/MySpectrumApp/main/olowalu.jpg",
     "Latitude": 20.8147221,
     "Longitude": -156.625
   }
